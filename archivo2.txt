@@ -1,0 +1,1 @@
+Este es el archivo 2 para explicar GIT y GitHub
